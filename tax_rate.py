@@ -17,6 +17,7 @@ except ValueError:
     print("Invalid input. Please enter numerical values.")
     exit()  # Stop execution if input is invalid
 
+
 # Determine base tax rate
 if gross < 1000:
     tax_rate = 10

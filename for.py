@@ -1,4 +1,5 @@
 # sum the first 100 numbers
+
 sum = 0
 for num in range(1, 101): # last one is excluded, so it goes from 1 to 100
     sum = sum + num

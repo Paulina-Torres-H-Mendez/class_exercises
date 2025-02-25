@@ -1,7 +1,6 @@
 print(type(3))
 
 print(not None)
-
 a = 6
 print(a+2.0)
 a/=2

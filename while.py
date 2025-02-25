@@ -1,7 +1,6 @@
 # you have 3 lives, you roll a dice, if you get a 6 you win
 # if you do not get a 6, you lose 1 life
 from random import randint
-
 lives = 3
 while True: # as long as I have more lives
     # roll the dice

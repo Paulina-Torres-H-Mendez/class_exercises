@@ -1,4 +1,5 @@
 from random import choice
+
 drinks = ["gin", "vodka", "wiskey", "rum", "tequila", "absinthe", "sake"]
 # print(choice(drinks))
 name = input("I am the virtual bartender. What is your name? ")
